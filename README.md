@@ -40,5 +40,6 @@ This project was developed as a hands-on learning experience in computer vision 
 
 📫 Author
 
-Buddy
-Engineering Graduate – AI & Data Science
+Srivathsan GMS
+B.Tech Artificial Intelligence & Data Science
+K.L.N. College of Engneering, Madurai.
